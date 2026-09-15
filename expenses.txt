@@ -1,3 +1,5 @@
 Burger'500.0
 Tea'100.0
 Fuel'1000.0
+tikka boti'750.0
+kabab roll'300.0
